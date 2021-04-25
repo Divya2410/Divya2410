@@ -1,4 +1,4 @@
-- <h2 align="center">Hey there! Welcome to my Github </h2>
+<h2 align="center">Namaste! 🙏 </h2>
 - 👋 I’m Divya Mishra, a final year undergrad pursuing Bachelor of Technology in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur. 
 
 - 👀 I’m primarily interested in computational astrophysics and most of my work here would be related to it. 
