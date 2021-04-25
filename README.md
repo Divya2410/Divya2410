@@ -7,15 +7,21 @@
 - ⚡ Fun fact **I'm a singer XD**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divyamishra2410" target="blank"><img align="center" src="https://www.google.com/search?q=linkedin+logo&sxsrf=ALeKk01kvLplHV75O1i-mj1YQjzyM3jyGg:1619353737104&tbm=isch&source=iu&ictx=1&fir=Nq6WyEZpq45MgM%252Cg4fNRo2UjqxM-M%252C_&vet=1&usg=AI4_-kSIf90TAXgzAjJssLy0dSuOoy6PHg&sa=X&ved=2ahUKEwj04o_ispnwAhXFX30KHQe6C2YQ9QF6BAgMEAE&biw=1294&bih=637#imgrc=Nq6WyEZpq45MgM" alt="divyamishra2410" height="30" width="40" /></a>
-<a href="https://instagram.com/mi.divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="mi.divya" height="30" width="40" /></a>
-<a href="https://medium.com/@divyamishra_64665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@divyamishra_64665" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/divyamishra2410">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>
+<a href="https://instagram.com/mi.divya">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>
+<a href="https://medium.com/@divyamishra_64665">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="40" height="40"/>
+
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+[instagram]: https://instagram.com/mi.divya
+[linkedin]: https://linkedin.com/in/divyamishra2410
+[medium]: https://medium.com/@divyamishra_64665
 <!---
 Divya2410/Divya2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
