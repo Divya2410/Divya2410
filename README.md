@@ -14,7 +14,7 @@
 <a href="https://medium.com/@divyamishra_64665">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30" height="30"/>
 <a href="https://www.facebook.com/profile.php?id=100021647467919">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30" height="30"/>
+<img src="file:///home/divya/Downloads/iconfinder_Rounded_Facebook_svg_5282541.svg" width="30" height="30"/>
 
 <br />
 
