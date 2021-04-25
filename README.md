@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divyamishra2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="divyamishra2410" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divyamishra2410" target="blank"><img align="center" src="https://www.google.com/search?q=linkedin+logo&sxsrf=ALeKk01kvLplHV75O1i-mj1YQjzyM3jyGg:1619353737104&tbm=isch&source=iu&ictx=1&fir=Nq6WyEZpq45MgM%252Cg4fNRo2UjqxM-M%252C_&vet=1&usg=AI4_-kSIf90TAXgzAjJssLy0dSuOoy6PHg&sa=X&ved=2ahUKEwj04o_ispnwAhXFX30KHQe6C2YQ9QF6BAgMEAE&biw=1294&bih=637#imgrc=Nq6WyEZpq45MgM" alt="divyamishra2410" height="30" width="40" /></a>
 <a href="https://instagram.com/mi.divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="mi.divya" height="30" width="40" /></a>
 <a href="https://medium.com/@divyamishra_64665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@divyamishra_64665" height="30" width="40" /></a>
 </p>
