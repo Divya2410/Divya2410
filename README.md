@@ -1,5 +1,5 @@
-<h2 align="center">Namaste! 🙏 </h2>
-- 👋 I’m Divya Mishra, a final year undergrad pursuing Bachelor of Technology in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur. 
+<h2 align="center">Namaste! So glad you're here. 🐿️ </h2>
+👋 I’m Divya Mishra, a final year undergrad pursuing Bachelor of Technology in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur. 
 
 - 👀 I’m primarily interested in computational astrophysics and most of my work here would be related to it. 
 - 🌱 Currently I am working on the Supernova Cosmology Project, which won a Nobel Prize in Physics in the year of 2011 for the "unexpected" discovery of Dark Energy.  
