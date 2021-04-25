@@ -8,11 +8,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/divyamishra2410">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30"/>
 <a href="https://instagram.com/mi.divya">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" height="30"/>
 <a href="https://medium.com/@divyamishra_64665">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30" height="30"/>
+<a href="https://www.facebook.com/profile.php?id=100021647467919">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30" height="30"/>
 
 <br />
 
