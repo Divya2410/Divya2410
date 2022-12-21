@@ -1,9 +1,7 @@
 <h2 align="center">Namaste! So glad you're here. 🐿️ </h2>
-👋 I’m Divya Mishra, a final year undergrad pursuing Bachelor of Technology in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur. 
+👋 I’m Divya Mishra, a first year astronomy grad student at Texas A&M University. I did my bachelor's in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur. 
 
-- 👀 I’m primarily interested in computational astrophysics and most of my work here would be related to it. 
-- 🌱 Currently I am working on the Supernova Cosmology Project, which won a Nobel Prize in Physics in the year of 2011 for the "unexpected" discovery of Dark Energy.  
-- 💞️ While the dark energy and dark matter constitutes 95% of the universe, they still manage to remain undetected despite extensive investigations. I am a prospective PhD candidate who hopes to work on unravelling these greatest mysteries of the universe.
+- 👀 I’m primarily interested in observational astronomy and most of my work here would be related to it. 
 - 📫 The best way to reach me would be via email **divya2410mishra@gmail.com**
 - ⚡ Fun fact **I'm a singer XD**
 
