@@ -1,5 +1,5 @@
 <h2 align="center">Namaste! So glad you're here. 🐿️ </h2>
-👋 I’m Divya Mishra, a first year astronomy grad student at Texas A&M University. I did my bachelor's in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur. 
+👋 I’m Divya Mishra, a astronomy grad student at Texas A&M University. I did my bachelor's in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur. 
 
 - 👀 I’m primarily interested in observational astronomy and most of my work here would be related to it. 
 - 📫 The best way to reach me would be via email **divya2410mishra@gmail.com**
